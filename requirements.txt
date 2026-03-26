@@ -1,0 +1,11 @@
+scapy>=2.5.0
+pysnmp>=4.4.12
+pysnmpcrypto>=0.0.3
+netaddr>=0.8.0
+networkx>=3.0
+matplotlib>=3.6.0
+pyvis>=0.3.2
+python-nmap>=0.7.1
+ipaddress
+colorama>=0.4.6
+rich>=13.0.0
